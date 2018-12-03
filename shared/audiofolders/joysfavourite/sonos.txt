@@ -1,3 +1,3 @@
-clearqueue
-shuffle/on
-spotify/now/spotify:user:nicolasborn:playlist:1gVNGt73VnXt4EUrMwHnHI
+Wohnzimmer/clearqueue
+Wohnzimmer/shuffle/on
+Wohnzimmer/spotify/now/spotify:user:nicolasborn:playlist:1gVNGt73VnXt4EUrMwHnHI

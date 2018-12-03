@@ -1,0 +1,3 @@
+Wohnzimmer/clearqueue
+Wohnzimmer/shuffle/on
+Wohnzimmer/spotify/now/spotify:album:6czM0JZLOq5Hvie16afv9R

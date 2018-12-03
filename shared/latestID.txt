@@ -1,3 +1,3 @@
-Card ID '4066949380' was used at '2018-04-04.19:03:29'.
+Card ID '0465280486' was used at '2018-12-03.21:30:36'.
 This ID has been used before.
-The shortcut points to audiofolder '4066949380'.
+The shortcut points to audiofolder 'wolf7geisslein'.

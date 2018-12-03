@@ -12,7 +12,6 @@
 # VARIABLES TO CHANGE
 # adjust these variables to match your system and configuration
 
-PLAYER="Galerie"
 ADDRESS="http://192.168.1.3:5005"
 
 # If you use cards to change audio level, stop playing or shutdown the RPi,
@@ -171,7 +170,7 @@ else
     then
         FILENAME="$PATHDATA/../shared/audiofolders/$FOLDERNAME/sonos.txt"
         while IFS='' read -r line || [[ -n "$line" ]]; do
-            wget -O/dev/null -q "$ADDRESS/$PLAYER/$line"
+            wget -O/dev/null -q "$ADDRESS/$line"
         done < "$FILENAME"        
     fi
 
